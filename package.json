@@ -1,0 +1,22 @@
+{
+  "name": "somosback",
+  "version": "1.0.0",
+  "description": "Desafio para emprego",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/longelozoma/desafioSomoSback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longelozoma/desafioSomoSback/issues"
+  },
+  "homepage": "https://github.com/longelozoma/desafioSomoSback#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
